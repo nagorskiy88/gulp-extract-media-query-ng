@@ -1,0 +1,29 @@
+{
+  "author": {
+    "name": "Nagorskiy Alexandr"
+  },
+  "bugs": {
+    "url": "https://github.com/nagorskiy88/gulp-extract-media-query-ng/issues"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8",
+    "postcss": "^6.0.3"
+  },
+  "description": "Gulp plugin which extracts matched media queries to the separate file",
+  "homepage": "https://github.com/nagorskiy88/gulp-extract-media-query-ng#readme",
+  "keywords": [
+    "media",
+    "query",
+    "extract",
+    "gulp"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "gulp-extract-media-query-ng",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagorskiy88/gulp-extract-media-query-ng.git"
+  },
+  "version": "1.0.0"
+}
